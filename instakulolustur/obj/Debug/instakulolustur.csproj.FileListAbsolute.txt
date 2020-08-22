@@ -1,0 +1,84 @@
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\instakulolustur.exe.config
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\instakulolustur.exe
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\instakulolustur.pdb
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\obj\Debug\instakulolustur.Form1.resources
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\obj\Debug\instakulolustur.Properties.Resources.resources
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\obj\Debug\instakulolustur.csproj.GenerateResource.Cache
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\obj\Debug\instakulolustur.exe
+c:\users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\obj\Debug\instakulolustur.pdb
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\obj\Debug\instakulolustur.csprojResolveAssemblyReference.cache
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\System.Web.Http.dll
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\System.Web.Http.xml
+C:\Users\sadik\documents\visual studio 2013\Projects\instakulolustur\instakulolustur\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\instakulolustur.exe.config
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\instakulolustur.exe
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\instakulolustur.pdb
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\System.Web.Http.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.xml
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\System.Web.Http.xml
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.Form1.resources
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.Properties.Resources.resources
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.csproj.GenerateResource.cache
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.csproj.CopyComplete
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.exe
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.pdb
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.epostagiris.resources
+C:\Users\sadik\source\repos\instakulolustur\instakulolustur\obj\Debug\instakulolustur.csprojAssemblyReference.cache
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\instakulolustur.exe.config
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\instakulolustur.exe
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\instakulolustur.pdb
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Client.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Common.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\System.Net.Http.Formatting.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\System.Web.Http.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Common.xml
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.xml
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\System.Net.Http.Formatting.xml
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\System.Web.Http.xml
+E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.WITDataStore.dll
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csprojAssemblyReference.cache
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.epostagiris.resources
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.Form1.resources
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.Properties.Resources.resources
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csproj.GenerateResource.cache
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csproj.CoreCompileInputs.cache
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csproj.CopyComplete
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.exe
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.pdb
