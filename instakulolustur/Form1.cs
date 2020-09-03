@@ -96,7 +96,7 @@ namespace instakulolustur
                 }
             }
            //------------------------------onay sayfası------------------------------//
-    else if(a==13)
+    else if(a==14)
             {
                foreach(HtmlElement item in webBrowser1.Document.GetElementsByTagName("input"))
                 {//itemdeki oznitelikleri getir attribute oznitelik

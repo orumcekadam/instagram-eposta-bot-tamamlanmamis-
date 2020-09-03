@@ -16,7 +16,7 @@ namespace instakulolustur
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new epostagiris());
+            Application.Run(new Form1());
         }
     }
 }
