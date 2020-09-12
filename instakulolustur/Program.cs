@@ -16,7 +16,7 @@ namespace instakulolustur
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new email_acıcı());
+            Application.Run(new instahesapolustur());
         }
     }
 }
