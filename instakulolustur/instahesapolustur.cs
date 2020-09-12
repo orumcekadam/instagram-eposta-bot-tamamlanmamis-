@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 
 namespace instakulolustur
 {
-    public partial class Form1 : Form
+    public partial class instahesapolustur : Form
     {
-        public Form1()
+        public instahesapolustur()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace instakulolustur
 {
-    partial class Form1
+    partial class instahesapolustur
     {
         /// <summary>
         /// Required designer variable.

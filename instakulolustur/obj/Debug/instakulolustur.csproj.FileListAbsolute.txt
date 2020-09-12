@@ -75,10 +75,11 @@ E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\System.Web.Http.xml
 E:\GitHub\instagram-eposta-bot\instakulolustur\bin\Debug\Microsoft.WITDataStore.dll
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csprojAssemblyReference.cache
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.epostagiris.resources
-E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.Form1.resources
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.Properties.Resources.resources
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csproj.GenerateResource.cache
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csproj.CoreCompileInputs.cache
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.csproj.CopyComplete
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.exe
 E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.pdb
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.email_acıcı.resources
+E:\GitHub\instagram-eposta-bot\instakulolustur\obj\Debug\instakulolustur.instahesapolustur.resources
